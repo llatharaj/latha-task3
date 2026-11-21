@@ -1,0 +1,23 @@
+PYTHON PROGRAMMING
+
+Python is a high-level programming language.
+
+Python is easy to learn and understand.
+
+Python is used in:
+1. Web development
+2. Data analysis
+3. Artificial Intelligence
+4. Machine Learning
+5. Automation
+
+Python supports different data types.
+
+Examples:
+- Integer
+- String
+- Float
+- List
+- Dictionary
+
+Python is popular because of its simple syntax.

@@ -1,0 +1,24 @@
+MACHINE LEARNING
+
+Machine Learning is a branch of Artificial Intelligence.
+
+It allows computers to learn from data
+and improve their performance without
+being explicitly programmed for every task.
+
+Types of Machine Learning:
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+Applications of Machine Learning:
+
+1. Email spam detection
+2. Recommendation systems
+3. Fraud detection
+4. Image recognition
+5. Weather prediction
+
+Machine Learning is widely used in
+healthcare, banking, education and technology.

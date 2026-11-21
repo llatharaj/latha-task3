@@ -1,0 +1,24 @@
+ARTIFICIAL INTELLIGENCE
+
+Artificial Intelligence is a technology
+that enables computers to perform tasks
+that normally require human intelligence.
+
+AI can perform tasks such as:
+
+1. Understanding language
+2. Recognizing images
+3. Solving problems
+4. Making predictions
+5. Answering questions
+
+Applications of Artificial Intelligence:
+
+1. Chatbots
+2. Virtual assistants
+3. Self-driving technology
+4. Medical diagnosis support
+5. Language translation
+
+AI is used in education, healthcare,
+business, transportation and many other fields.
